@@ -1,2 +1,3 @@
 This is FileA
-This is 1st chnage to fileA
+This is 1st change to fileA
+making another change
